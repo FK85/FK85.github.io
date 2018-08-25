@@ -1,2 +1,2 @@
 # FK85.github.io
-Data SCcience Portfolio
+Data Science Portfolio
