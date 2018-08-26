@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Fahad Khan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Fahad.jpg"
   bio              : "Data Science Portfolio"
   location         : "Berkeley, CA"
   email            :
