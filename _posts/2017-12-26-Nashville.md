@@ -29,4 +29,4 @@ Benefits: This will encourage a discussion among the students and their families
 
 Challenges: It would be hard for the openstreet community to convince the public schools to include openstreetmaps contribution as an assignment in their course work. It would also be challenging to get students interested about contributing to openstreetmaps. But if done, this can really help in improving data in openstreetmaps while allowing students contribute to the community.
 
-### Project Link: [link](https://github.com/FK85/open-street-maps-nashville)
+### Project Link: [Open Street Maps - Nashville](https://github.com/FK85/open-street-maps-nashville)
