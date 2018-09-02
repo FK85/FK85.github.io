@@ -1,10 +1,10 @@
 ---
 title: "Open Street Maps - Nashville"
 date: 2017-12-26
-tags: [data science, python]
+tags: [Data Extraction using Python]
 header:
   image: "/images/Nashville/Nashville-New.jpg"
-excerpt: "Data Science, Nashville"
+excerpt: "I lived in Nashville for 5 years. I was curious to learn more about Nashville using the Open Street Maps data. In this project I analyze, clean and find insights from the Open Streets Maps data for Nashville."
 mathjax: "true"
 ---
 
