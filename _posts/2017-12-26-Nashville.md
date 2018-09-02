@@ -2,9 +2,9 @@
 title: "Open Street Maps - Nashville"
 date: 2017-12-26
 tags: [Data Extraction, Python, Regex]
-header: "Test"
+header:
   image: "/images/Nashville/Nashville-New.jpg"
-excerpt: "I lived in Nashville for 5 years. I was curious to learn more about Nashville using the Open Street Maps data. In this project I analyze, clean and find insights from the Open Streets Maps data for Nashville."
+excerpt: "Data Extraction using Python: I lived in Nashville for 5 years. I was curious to learn more about Nashville using the Open Street Maps data. In this project I analyze, clean and find insights from the Open Streets Maps data for Nashville."
 mathjax: "true"
 ---
 
