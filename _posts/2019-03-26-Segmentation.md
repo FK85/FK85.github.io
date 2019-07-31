@@ -1,5 +1,5 @@
 ---
-title: "Charity Donor Match"
+title: "Customer segmentation"
 date: 2019-01-26
 tags:
 header:
