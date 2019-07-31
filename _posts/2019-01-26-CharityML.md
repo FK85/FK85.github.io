@@ -8,6 +8,8 @@ excerpt: "Apply machine learning supervised learning to identify donors for a ch
 mathjax: "true"
 ---
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/CharityML/CharityML.PNG" alt="linearly separable data">
+
 ## Project Summary
 
 ### Background:
