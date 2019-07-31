@@ -8,7 +8,7 @@ excerpt: "Apply unsupervised clustering to identify segments of the population t
 mathjax: "true"
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Segmentation/Segmentation.jpg" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Segmentation/Segmentation.PNG" alt="linearly separable data">
 
 ## Project Summary
 
