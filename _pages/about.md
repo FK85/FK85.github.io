@@ -6,13 +6,15 @@ header:
 ---
 
 
-I have had the opportunity to work closely with data in all my roles so far. In my latest role, I have created machine learning models to find hidden insights and contribute to the company's bottom line through opportunity prediction and product recommendation models. Prior to that I have collaborated with internal customers to create key metrics and implemented dashboards for the executive leadership. I have also worked as a consultant for Capgemini helping a leading credit card client overhaul their payment processing system.
+In my latest role, I have created machine learning models to find hidden insights and contribute to the company's bottom line through opportunity prediction, forecasting, segmentation and product recommendation models. Prior to that I have collaborated with internal customers to create and track key metrics and implement dashboards for the executive leadership.
+
+Having worked closely with data in all my roles over the 10 years, finding ways to convert data into insight is second nature to me. I am extremely adept at self-learning and passionate about making the world a better place through predictive analytics.
 
 ## Languages:
 Python, R, SQL					
-## Machine Learning:
-Scikit-learn, Microsoft Azure ML Studio
-## Visualization:
-Tableau, MSBI Power BI, OBIEE			
+## Machine Learning Framework:
+Scikit-learn, PyTorch (w/GPU)
+## Cloud ML Platform: 
+AWS SageMaker, Azure ML Studio
 ## Statistics:
 Descriptive and Inferential
